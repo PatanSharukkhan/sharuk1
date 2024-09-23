@@ -1,2 +1,4 @@
 bannana
 apple
+pineapple
+orange
